@@ -1,0 +1,38 @@
+body{
+ background-color: #20B2AA;
+ }
+
+  h1{
+    color: #FFA500;
+    font-size: 100px;
+
+  }
+  h3{
+    color: #FFA500;
+  }
+  h2{
+    color: #FFA500;
+  }
+p{
+  color:#FFF5EE;
+}
+ hr{
+   background-color:#20B2AA;
+   border-style:dotted none none;
+   width: 10%;
+   border-width: 5px;
+   border-color:#FFF8DC;
+ }
+
+ img{
+   height: 250px;
+ }
+table{
+  border-color: #FFF5EE;
+}
+li:hover{
+  color:#FFF5EE ;
+}
+td:hover{
+  color: #FFF5EE;
+}
